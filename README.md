@@ -1,4 +1,3 @@
-# network-inventory-tool
 # Network Inventory Tool
 
 Semplice tool CLI in Python per gestire un inventario di dispositivi di rete (IP, hostname, tipo, stato).  
