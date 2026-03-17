@@ -1,7 +1,6 @@
 **main.py** (crea questo file):
 ```python
 import csv
-import csv
 from datetime import datetime
 
 FILE = "network_inventory.csv"
